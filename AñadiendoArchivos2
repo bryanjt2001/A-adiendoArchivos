@@ -22,4 +22,7 @@ Changes to be committed:
  2 files changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 Archivo1.txt
  create mode 100644 Archivo2.txt
+ 
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\Prueba>git log --oneline
+bb98a16 (HEAD -> master) A<C3><B1>ado varios archivos vacios
 
