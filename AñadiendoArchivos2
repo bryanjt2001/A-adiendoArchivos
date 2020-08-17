@@ -16,4 +16,10 @@ Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
         new file:   Archivo1.txt
         new file:   Archivo2.txt
+   
+ C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\Prueba>git commit -m "Añado varios archivos vacios"
+[master (root-commit) bb98a16] Añado varios archivos vacios
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Archivo1.txt
+ create mode 100644 Archivo2.txt
 
