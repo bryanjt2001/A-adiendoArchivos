@@ -6,3 +6,14 @@ C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\Prueba>copy con "Archivo1.t
 C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\Prueba>copy con "Archivo2.txt"
 ^Z
         1 archivo(s) copiado(s).
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\Prueba>git add .
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\Prueba>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   Archivo1.txt
+        new file:   Archivo2.txt
+
